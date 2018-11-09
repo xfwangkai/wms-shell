@@ -1,7 +1,7 @@
 <template>
   <mu-container>
     <mu-text-field label="请输入IP地址" v-model="ipaddr"></mu-text-field>
-    <mu-button @click="openNewPage">打开新链接</mu-button>
+    <mu-button @click="openNewPage">打开应用</mu-button>
   </mu-container>
 </template>
 
